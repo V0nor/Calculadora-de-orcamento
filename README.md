@@ -1,6 +1,6 @@
 # Projeto de Orçamento
 
-<img src="link_para_a_imagem" alt="OrçamentoTeXe" style="max-width: 100%; height: auto;">
+<img src="link_para_a_imagem" alt="Imagem demonstrativa do projeto" style="max-width: 100%; height: auto;">
 
 Este projeto consiste no desenvolvimento de um sistema de orçamento, utilizando uma variedade de tecnologias modernas para oferecer uma solução robusta e inovadora.
 
