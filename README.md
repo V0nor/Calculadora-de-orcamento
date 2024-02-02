@@ -15,7 +15,7 @@ Essas tecnologias foram integradas de forma cuidadosa para otimizar o desempenho
 
 ## Acesso ao Projeto
 
-Para explorar o projeto em detalhes, acesse: [OrçamentoTeXe](https://orcamentotexe.surge.sh/)
+Para explorar o projeto em detalhes, acesse: [OrçamentoTexe](https://orcamentotexe.surge.sh/)
 
 ## Principais Melhorias e Considerações
 
