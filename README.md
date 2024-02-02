@@ -1,6 +1,6 @@
 # Projeto de Orçamento
 
-![OrçamentoTeXe](link_para_a_imagem)
+![Imagem demonstrativa](texe.png)
 
 Este projeto consiste no desenvolvimento de um sistema de orçamento, utilizando uma variedade de tecnologias modernas para oferecer uma solução robusta e inovadora.
 
