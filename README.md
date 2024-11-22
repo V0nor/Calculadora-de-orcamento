@@ -17,7 +17,7 @@ Essas tecnologias foram integradas de forma cuidadosa para otimizar o desempenho
 
 ## Acesso ao Projeto
 
-Para explorar o projeto em detalhes, acesse: [OrçamentoTexe](https://orcamentotexe.surge.sh/)
+Para explorar o projeto em detalhes, acesse: [OrçamentoTexe](https://distribuidora.texe.com.br/calculadora/)
 
 ## Principais Melhorias e Considerações
 
